@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.c2m.storyviewer"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="29" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <!-- Offline DRM related permissions -->
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:name="com.c2m.storyviewer.app.StoryApp"
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.c2m.storyviewer.screen.StoryActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <service
+            android:name="com.brightcove.player.network.DownloadMonitorService"
+            android:exported="false" /> <!-- If we don't register this Activity in the Manifest, apps using the SDK will crash when they try to access it. -->
+        <!-- During the app's build process, this manifest will be merged with the app-level one. -->
+        <activity android:name="com.brightcove.player.captioning.BrightcoveCaptionPropertiesActivity" />
+
+        <service
+            android:name="com.brightcove.player.services.BrightcoveMediaPlayerService"
+            android:enabled="true" />
+        <service android:name="com.liulishuo.filedownloader.services.FileDownloadService$SharedMainProcessService" />
+        <service
+            android:name="com.liulishuo.filedownloader.services.FileDownloadService$SeparateProcessService"
+            android:process=":filedownloader" />
+    </application>
+
+</manifest>

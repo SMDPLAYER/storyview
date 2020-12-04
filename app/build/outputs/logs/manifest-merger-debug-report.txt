@@ -1,0 +1,236 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ibox/Downloads/C2MStoryViewer-master/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/ibox/Downloads/C2MStoryViewer-master/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/ibox/Downloads/C2MStoryViewer-master/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/ibox/Downloads/C2MStoryViewer-master/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/4124b23a2d66879dcc3a8c9b754eaa07/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.3.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/97997c5160133ad32af50c52bc9e28ed/jetified-core-ktx-1.3.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/ibox/.gradle/caches/transforms-2/files-2.1/460af2c6f090a414131f560f12d5b6a4/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/c3ef1af79e29a2e79ea849ce170af04c/jetified-glide-4.11.0/AndroidManifest.xml:2:1-12:12
+MERGED from [com.brightcove.player:exoplayer2:6.5.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/be8ab4985da1c0b8ef8251936c131974/jetified-exoplayer2-6.5.0/AndroidManifest.xml:2:1-18:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/b61a57b6945cda3b9e40deb38ea977bb/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/1254ee44ce4c2cd1d1dfc1b52ccf3773/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/62836466526740e63c9375402246aa72/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/7391fa84a217d9eb6dcebf99e37fc0c8/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/a5679dd333713c51f7251dcc44af4b99/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/28efd53754fc010e9ceb6802087bb055/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/093e54323149472f869090a352b4c998/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/7cc60cba9f98fa442125f78ad12b5135/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/3db179a9e376048ae63f8565d7d170a9/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/c4d3faf04592ead831b6be1f38431a9d/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/a75a24726b17d8b31949db614e2f00fa/core-1.3.0/AndroidManifest.xml:17:1-26:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/2eb834198c99c3811e0fc7fb216a3020/jetified-gifdecoder-4.11.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/91338b810528f65e1a89ed6663b0e3f0/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.brightcove.player:offline-playback:6.5.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/35c82e24fca4f1bba0d73c26e05341ca/jetified-offline-playback-6.5.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.brightcove.player:android-sdk:6.5.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/5a5a5eb11bf563f3bbf8f3fd347c2234/jetified-android-sdk-6.5.0/AndroidManifest.xml:2:1-25:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.7.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/af98a1bf993699da7079f9413c2c05ac/jetified-exoplayer-dash-2.7.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.7.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/3fa323018f8e887c9772fb7f4a7986d4/jetified-exoplayer-hls-2.7.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.7.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/ba19fa67b81190c3d115fdeba6a3bbc3/jetified-exoplayer-ui-2.7.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.7.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/3b486f213dc27915aba7b155ab65ef6e/jetified-exoplayer-core-2.7.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/69f3b30d59d06ada26e80da16fd74a49/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/dbeae6401e93555bb6292986c873ebb9/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/e7dd3c7bba059d55010c6de66a10db87/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/5632645692dc6c8a7c969e9bdf858ec2/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/a9d842f4c96fe55ab26e891ae32ac0ba/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/e15458e136da93db710f843be376dc35/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/ced8cbd41c0e256b4e804cc3721b87c9/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/59f065c445a1b92a90077905cb36934f/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.liulishuo.filedownloader:library:1.7.4] /Users/ibox/.gradle/caches/transforms-2/files-2.1/2a3c30647cc4303d580b4b414131930b/jetified-library-1.7.4/AndroidManifest.xml:2:1-18:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/ibox/.gradle/caches/transforms-2/files-2.1/f1c4f0079a27abdc1ab0de845b847ab6/jetified-rxandroid-2.0.1/AndroidManifest.xml:15:1-21:12
+MERGED from [io.requery:requery-android:1.4.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/af8d62147f759f17916e77b614dc70a4/jetified-requery-android-1.4.0/AndroidManifest.xml:2:1-14:12
+INJECTED from /Users/ibox/Downloads/C2MStoryViewer-master/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/ibox/Downloads/C2MStoryViewer-master/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/ibox/Downloads/C2MStoryViewer-master/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/ibox/Downloads/C2MStoryViewer-master/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /Users/ibox/Downloads/C2MStoryViewer-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ibox/Downloads/C2MStoryViewer-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ibox/Downloads/C2MStoryViewer-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ibox/Downloads/C2MStoryViewer-master/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/ibox/Downloads/C2MStoryViewer-master/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/ibox/Downloads/C2MStoryViewer-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ibox/Downloads/C2MStoryViewer-master/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/ibox/Downloads/C2MStoryViewer-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ibox/Downloads/C2MStoryViewer-master/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/ibox/Downloads/C2MStoryViewer-master/app/src/main/AndroidManifest.xml:5:5-66
+MERGED from [com.brightcove.player:android-sdk:6.5.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/5a5a5eb11bf563f3bbf8f3fd347c2234/jetified-android-sdk-6.5.0/AndroidManifest.xml:11:5-67
+MERGED from [com.brightcove.player:android-sdk:6.5.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/5a5a5eb11bf563f3bbf8f3fd347c2234/jetified-android-sdk-6.5.0/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /Users/ibox/Downloads/C2MStoryViewer-master/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/ibox/Downloads/C2MStoryViewer-master/app/src/main/AndroidManifest.xml:7:5-22:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/ibox/.gradle/caches/transforms-2/files-2.1/460af2c6f090a414131f560f12d5b6a4/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/ibox/.gradle/caches/transforms-2/files-2.1/460af2c6f090a414131f560f12d5b6a4/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/c3ef1af79e29a2e79ea849ce170af04c/jetified-glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/c3ef1af79e29a2e79ea849ce170af04c/jetified-glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [com.brightcove.player:exoplayer2:6.5.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/be8ab4985da1c0b8ef8251936c131974/jetified-exoplayer2-6.5.0/AndroidManifest.xml:12:5-16:19
+MERGED from [com.brightcove.player:exoplayer2:6.5.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/be8ab4985da1c0b8ef8251936c131974/jetified-exoplayer2-6.5.0/AndroidManifest.xml:12:5-16:19
+MERGED from [androidx.core:core:1.3.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/a75a24726b17d8b31949db614e2f00fa/core-1.3.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/a75a24726b17d8b31949db614e2f00fa/core-1.3.0/AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/2eb834198c99c3811e0fc7fb216a3020/jetified-gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/2eb834198c99c3811e0fc7fb216a3020/jetified-gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [com.brightcove.player:android-sdk:6.5.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/5a5a5eb11bf563f3bbf8f3fd347c2234/jetified-android-sdk-6.5.0/AndroidManifest.xml:14:5-23:19
+MERGED from [com.brightcove.player:android-sdk:6.5.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/5a5a5eb11bf563f3bbf8f3fd347c2234/jetified-android-sdk-6.5.0/AndroidManifest.xml:14:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/69f3b30d59d06ada26e80da16fd74a49/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/69f3b30d59d06ada26e80da16fd74a49/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.liulishuo.filedownloader:library:1.7.4] /Users/ibox/.gradle/caches/transforms-2/files-2.1/2a3c30647cc4303d580b4b414131930b/jetified-library-1.7.4/AndroidManifest.xml:11:5-16:19
+MERGED from [com.liulishuo.filedownloader:library:1.7.4] /Users/ibox/.gradle/caches/transforms-2/files-2.1/2a3c30647cc4303d580b4b414131930b/jetified-library-1.7.4/AndroidManifest.xml:11:5-16:19
+MERGED from [io.requery:requery-android:1.4.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/af8d62147f759f17916e77b614dc70a4/jetified-requery-android-1.4.0/AndroidManifest.xml:11:5-12:19
+MERGED from [io.requery:requery-android:1.4.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/af8d62147f759f17916e77b614dc70a4/jetified-requery-android-1.4.0/AndroidManifest.xml:11:5-12:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/a75a24726b17d8b31949db614e2f00fa/core-1.3.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/ibox/Downloads/C2MStoryViewer-master/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/ibox/Downloads/C2MStoryViewer-master/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /Users/ibox/Downloads/C2MStoryViewer-master/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /Users/ibox/Downloads/C2MStoryViewer-master/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/ibox/Downloads/C2MStoryViewer-master/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/ibox/Downloads/C2MStoryViewer-master/app/src/main/AndroidManifest.xml:14:9-40
+	android:name
+		ADDED from /Users/ibox/Downloads/C2MStoryViewer-master/app/src/main/AndroidManifest.xml:13:9-37
+activity#com.c2m.storyviewer.screen.StoryActivity
+ADDED from /Users/ibox/Downloads/C2MStoryViewer-master/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /Users/ibox/Downloads/C2MStoryViewer-master/app/src/main/AndroidManifest.xml:15:19-55
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ibox/Downloads/C2MStoryViewer-master/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/ibox/Downloads/C2MStoryViewer-master/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/ibox/Downloads/C2MStoryViewer-master/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ibox/Downloads/C2MStoryViewer-master/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/ibox/Downloads/C2MStoryViewer-master/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /Users/ibox/Downloads/C2MStoryViewer-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ibox/Downloads/C2MStoryViewer-master/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ibox/Downloads/C2MStoryViewer-master/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/4124b23a2d66879dcc3a8c9b754eaa07/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/4124b23a2d66879dcc3a8c9b754eaa07/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.3.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/97997c5160133ad32af50c52bc9e28ed/jetified-core-ktx-1.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/97997c5160133ad32af50c52bc9e28ed/jetified-core-ktx-1.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/ibox/.gradle/caches/transforms-2/files-2.1/460af2c6f090a414131f560f12d5b6a4/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/ibox/.gradle/caches/transforms-2/files-2.1/460af2c6f090a414131f560f12d5b6a4/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/c3ef1af79e29a2e79ea849ce170af04c/jetified-glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/c3ef1af79e29a2e79ea849ce170af04c/jetified-glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.brightcove.player:exoplayer2:6.5.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/be8ab4985da1c0b8ef8251936c131974/jetified-exoplayer2-6.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.brightcove.player:exoplayer2:6.5.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/be8ab4985da1c0b8ef8251936c131974/jetified-exoplayer2-6.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/b61a57b6945cda3b9e40deb38ea977bb/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/b61a57b6945cda3b9e40deb38ea977bb/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/1254ee44ce4c2cd1d1dfc1b52ccf3773/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/1254ee44ce4c2cd1d1dfc1b52ccf3773/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/62836466526740e63c9375402246aa72/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/62836466526740e63c9375402246aa72/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/7391fa84a217d9eb6dcebf99e37fc0c8/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/7391fa84a217d9eb6dcebf99e37fc0c8/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/a5679dd333713c51f7251dcc44af4b99/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/a5679dd333713c51f7251dcc44af4b99/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/28efd53754fc010e9ceb6802087bb055/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/28efd53754fc010e9ceb6802087bb055/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/093e54323149472f869090a352b4c998/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/093e54323149472f869090a352b4c998/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/7cc60cba9f98fa442125f78ad12b5135/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/7cc60cba9f98fa442125f78ad12b5135/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/3db179a9e376048ae63f8565d7d170a9/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/3db179a9e376048ae63f8565d7d170a9/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/c4d3faf04592ead831b6be1f38431a9d/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/c4d3faf04592ead831b6be1f38431a9d/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/a75a24726b17d8b31949db614e2f00fa/core-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/a75a24726b17d8b31949db614e2f00fa/core-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/2eb834198c99c3811e0fc7fb216a3020/jetified-gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/2eb834198c99c3811e0fc7fb216a3020/jetified-gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/91338b810528f65e1a89ed6663b0e3f0/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/91338b810528f65e1a89ed6663b0e3f0/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.brightcove.player:offline-playback:6.5.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/35c82e24fca4f1bba0d73c26e05341ca/jetified-offline-playback-6.5.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.brightcove.player:offline-playback:6.5.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/35c82e24fca4f1bba0d73c26e05341ca/jetified-offline-playback-6.5.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.brightcove.player:android-sdk:6.5.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/5a5a5eb11bf563f3bbf8f3fd347c2234/jetified-android-sdk-6.5.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.brightcove.player:android-sdk:6.5.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/5a5a5eb11bf563f3bbf8f3fd347c2234/jetified-android-sdk-6.5.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.7.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/af98a1bf993699da7079f9413c2c05ac/jetified-exoplayer-dash-2.7.0/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.7.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/af98a1bf993699da7079f9413c2c05ac/jetified-exoplayer-dash-2.7.0/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.7.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/3fa323018f8e887c9772fb7f4a7986d4/jetified-exoplayer-hls-2.7.0/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.7.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/3fa323018f8e887c9772fb7f4a7986d4/jetified-exoplayer-hls-2.7.0/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.7.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/ba19fa67b81190c3d115fdeba6a3bbc3/jetified-exoplayer-ui-2.7.0/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.7.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/ba19fa67b81190c3d115fdeba6a3bbc3/jetified-exoplayer-ui-2.7.0/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.7.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/3b486f213dc27915aba7b155ab65ef6e/jetified-exoplayer-core-2.7.0/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.7.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/3b486f213dc27915aba7b155ab65ef6e/jetified-exoplayer-core-2.7.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/69f3b30d59d06ada26e80da16fd74a49/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/69f3b30d59d06ada26e80da16fd74a49/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/dbeae6401e93555bb6292986c873ebb9/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/dbeae6401e93555bb6292986c873ebb9/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/e7dd3c7bba059d55010c6de66a10db87/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/e7dd3c7bba059d55010c6de66a10db87/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/5632645692dc6c8a7c969e9bdf858ec2/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/5632645692dc6c8a7c969e9bdf858ec2/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/a9d842f4c96fe55ab26e891ae32ac0ba/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/a9d842f4c96fe55ab26e891ae32ac0ba/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/e15458e136da93db710f843be376dc35/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/e15458e136da93db710f843be376dc35/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/ced8cbd41c0e256b4e804cc3721b87c9/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/ced8cbd41c0e256b4e804cc3721b87c9/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/59f065c445a1b92a90077905cb36934f/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/59f065c445a1b92a90077905cb36934f/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.liulishuo.filedownloader:library:1.7.4] /Users/ibox/.gradle/caches/transforms-2/files-2.1/2a3c30647cc4303d580b4b414131930b/jetified-library-1.7.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.liulishuo.filedownloader:library:1.7.4] /Users/ibox/.gradle/caches/transforms-2/files-2.1/2a3c30647cc4303d580b4b414131930b/jetified-library-1.7.4/AndroidManifest.xml:7:5-9:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/ibox/.gradle/caches/transforms-2/files-2.1/f1c4f0079a27abdc1ab0de845b847ab6/jetified-rxandroid-2.0.1/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/ibox/.gradle/caches/transforms-2/files-2.1/f1c4f0079a27abdc1ab0de845b847ab6/jetified-rxandroid-2.0.1/AndroidManifest.xml:19:5-43
+MERGED from [io.requery:requery-android:1.4.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/af8d62147f759f17916e77b614dc70a4/jetified-requery-android-1.4.0/AndroidManifest.xml:7:5-9:41
+MERGED from [io.requery:requery-android:1.4.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/af8d62147f759f17916e77b614dc70a4/jetified-requery-android-1.4.0/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/ibox/Downloads/C2MStoryViewer-master/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ibox/Downloads/C2MStoryViewer-master/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ibox/Downloads/C2MStoryViewer-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ibox/Downloads/C2MStoryViewer-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ibox/Downloads/C2MStoryViewer-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ibox/Downloads/C2MStoryViewer-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ibox/Downloads/C2MStoryViewer-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ibox/Downloads/C2MStoryViewer-master/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [com.brightcove.player:exoplayer2:6.5.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/be8ab4985da1c0b8ef8251936c131974/jetified-exoplayer2-6.5.0/AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from [com.brightcove.player:exoplayer2:6.5.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/be8ab4985da1c0b8ef8251936c131974/jetified-exoplayer2-6.5.0/AndroidManifest.xml:9:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [com.brightcove.player:exoplayer2:6.5.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/be8ab4985da1c0b8ef8251936c131974/jetified-exoplayer2-6.5.0/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from [com.brightcove.player:exoplayer2:6.5.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/be8ab4985da1c0b8ef8251936c131974/jetified-exoplayer2-6.5.0/AndroidManifest.xml:10:22-78
+service#com.brightcove.player.network.DownloadMonitorService
+ADDED from [com.brightcove.player:exoplayer2:6.5.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/be8ab4985da1c0b8ef8251936c131974/jetified-exoplayer2-6.5.0/AndroidManifest.xml:13:9-15:40
+	android:exported
+		ADDED from [com.brightcove.player:exoplayer2:6.5.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/be8ab4985da1c0b8ef8251936c131974/jetified-exoplayer2-6.5.0/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [com.brightcove.player:exoplayer2:6.5.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/be8ab4985da1c0b8ef8251936c131974/jetified-exoplayer2-6.5.0/AndroidManifest.xml:14:13-80
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.brightcove.player:android-sdk:6.5.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/5a5a5eb11bf563f3bbf8f3fd347c2234/jetified-android-sdk-6.5.0/AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from [com.brightcove.player:android-sdk:6.5.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/5a5a5eb11bf563f3bbf8f3fd347c2234/jetified-android-sdk-6.5.0/AndroidManifest.xml:12:22-76
+activity#com.brightcove.player.captioning.BrightcoveCaptionPropertiesActivity
+ADDED from [com.brightcove.player:android-sdk:6.5.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/5a5a5eb11bf563f3bbf8f3fd347c2234/jetified-android-sdk-6.5.0/AndroidManifest.xml:18:9-105
+	android:name
+		ADDED from [com.brightcove.player:android-sdk:6.5.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/5a5a5eb11bf563f3bbf8f3fd347c2234/jetified-android-sdk-6.5.0/AndroidManifest.xml:18:19-102
+service#com.brightcove.player.services.BrightcoveMediaPlayerService
+ADDED from [com.brightcove.player:android-sdk:6.5.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/5a5a5eb11bf563f3bbf8f3fd347c2234/jetified-android-sdk-6.5.0/AndroidManifest.xml:20:9-22:38
+	android:enabled
+		ADDED from [com.brightcove.player:android-sdk:6.5.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/5a5a5eb11bf563f3bbf8f3fd347c2234/jetified-android-sdk-6.5.0/AndroidManifest.xml:22:13-35
+	android:name
+		ADDED from [com.brightcove.player:android-sdk:6.5.0] /Users/ibox/.gradle/caches/transforms-2/files-2.1/5a5a5eb11bf563f3bbf8f3fd347c2234/jetified-android-sdk-6.5.0/AndroidManifest.xml:21:13-87
+service#com.liulishuo.filedownloader.services.FileDownloadService$SharedMainProcessService
+ADDED from [com.liulishuo.filedownloader:library:1.7.4] /Users/ibox/.gradle/caches/transforms-2/files-2.1/2a3c30647cc4303d580b4b414131930b/jetified-library-1.7.4/AndroidManifest.xml:12:9-118
+	android:name
+		ADDED from [com.liulishuo.filedownloader:library:1.7.4] /Users/ibox/.gradle/caches/transforms-2/files-2.1/2a3c30647cc4303d580b4b414131930b/jetified-library-1.7.4/AndroidManifest.xml:12:18-115
+service#com.liulishuo.filedownloader.services.FileDownloadService$SeparateProcessService
+ADDED from [com.liulishuo.filedownloader:library:1.7.4] /Users/ibox/.gradle/caches/transforms-2/files-2.1/2a3c30647cc4303d580b4b414131930b/jetified-library-1.7.4/AndroidManifest.xml:13:9-15:49
+	android:process
+		ADDED from [com.liulishuo.filedownloader:library:1.7.4] /Users/ibox/.gradle/caches/transforms-2/files-2.1/2a3c30647cc4303d580b4b414131930b/jetified-library-1.7.4/AndroidManifest.xml:15:13-46
+	android:name
+		ADDED from [com.liulishuo.filedownloader:library:1.7.4] /Users/ibox/.gradle/caches/transforms-2/files-2.1/2a3c30647cc4303d580b4b414131930b/jetified-library-1.7.4/AndroidManifest.xml:14:13-108
